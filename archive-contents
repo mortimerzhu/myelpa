@@ -21,6 +21,7 @@
  (base16-theme . [(20220725 353) nil "Collection of themes built on combinations of 16 base colors" tar])
  (bbdb . [(20220706 433) ((emacs (24)) (cl-lib (0 5))) "Big Brother DataBase" tar])
  (birds-of-paradise-plus-theme . [(20130419 2129) nil "A brown/orange lightdark theme for Emacs 24 (deftheme)." tar])
+ (bind-key . [(2 4 4) nil "A simple way to manage personal keybindings" tar])
  (bubbleberry-theme . [(20141017 944) ((emacs (24 1))) "A theme based on LightTable for Emacs24" tar])
  (buffer-move . [(20220512 755) ((emacs (24 1))) "easily swap buffers" tar])
  (busybee-theme . [(20170719 928) nil "port of vim's mustang theme" tar])
