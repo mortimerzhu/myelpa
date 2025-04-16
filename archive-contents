@@ -134,6 +134,7 @@
  (jenkinsfile-mode . [(20230525 2006) nil "Major mode for editing Jenkins declarative pipeline syntax" tar])
  (js-doc . [(20160715 434) nil "Insert JsDoc style comment easily" tar])
  (js2-mode . [(20220710 57) ((emacs (24 1)) (cl-lib (0 5))) "Improved JavaScript editing mode" tar])
+ (jtsx . [(0 6 0) ((emacs (29 1))) "Extends JSX/TSX built-in support" tar])
  (jump . [(2 6) ((findr (0 7)) (inflections (2 4)) (cl-lib (0 5))) "build functions which contextually jump between files" tar])
  (kaolin-themes . [(20250122 1521) ((emacs (25 1)) (autothemer (0 2 2)) (cl-lib (0 6))) "A set of eye pleasing themes" tar])
  (keyfreq . [(20220607 1613) ((cl-lib (0 5))) "track command frequencies" tar])
